@@ -1,0 +1,111 @@
+body{
+    background-color: beige;
+}
+#payasito{
+    background-color: rgb(245, 191, 236) ;
+    height: 800px;
+    width: 800px;
+    
+}
+#caja1{
+    background-color: green ;
+    height: 110px;
+    width: 250px;
+    border-radius: 20%;
+    position: relative;
+    left: 40%;
+    
+    
+}
+#caja2{
+    background-color: rgb(75, 185, 11) ;
+    height: 100px;
+    width: 550px;
+    border-radius: 50%;
+    position: relative;
+    left: 20%;
+    bottom: 28px;
+}
+#caja3{
+    background-color: rgb(221, 138, 71) ;
+    height: 400px;
+    width: 400px;
+    border-radius: 150px;
+    position: relative;
+    left: 30%;
+    bottom: 83px;
+}
+#c21{
+    background-color: white;
+    height: 150px;
+    width: 100px;
+    border-radius: 150px;
+    position: relative;
+    left: 18%;
+    top: 70px;
+}
+#c31{
+    background-color: black;
+    height: 90px;
+    width: 60px;
+    border-radius: 50px;
+    position: relative;
+    left: 18%;
+    top: 50px;
+}
+#c22{
+    background-color: white;
+    height: 150px;
+    width: 100px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 80px;
+    left: 60%;
+}
+#c32{
+    background-color: black;
+    height: 90px;
+    width: 60px;
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+    left: 20%;
+}
+
+
+#c23{
+    background-color: red;
+    height: 120px;
+    width: 100px;
+    border-radius: 50px;
+    position: relative;
+    left: 39%;
+    bottom: 130px;
+}
+#c24{
+    background-color: white;
+    height: 150px;
+    width: 250px;
+    border-radius: 50px;
+    position: relative;
+    left: 20%;
+    bottom: 190px;
+}
+#c33{
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    border-radius: 30px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+#c41{
+    background-color: rgb(230, 18, 18);
+    width: 157px;
+    height: 50px;
+    border-radius: 30px;
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
